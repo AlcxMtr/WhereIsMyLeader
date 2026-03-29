@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@turf/turf": "^7.3.4",
     "leaflet": "^1.9.4",
+    "leaflet-arrowheads": "^1.4.0",
+    "leaflet.pattern": "^0.1.0",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
@@ -21,9 +24,11 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/react-leaflet": "^2.8.3",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }

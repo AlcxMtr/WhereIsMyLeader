@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "city": "Ottawa, Canada",
+    "coords": [45.4215, -75.6972],
+    "arrival": "2026-01-01",
+    "departure": "2026-01-12",
+    "desc": "Working from PMO in Ottawa before world tour to China, Qatar, and Davos. (Canada)"
+  },
+  {
+    "id": 2,
+    "city": "Beijing, China",
+    "coords": [39.9042, 116.4074],
+    "arrival": "2026-01-13",
+    "departure": "2026-01-17",
+    "desc": "Visit to China to 'reset' relations; meetings with President Xi Jinping, Premier Li Qiang and senior officials on trade and security. (China)[web:116][web:244]"
+  },
+  {
+    "id": 3,
+    "city": "Doha, Qatar",
+    "coords": [25.2854, 51.5310],
+    "arrival": "2026-01-18",
+    "departure": "2026-01-18",
+    "desc": "Bilateral visit to Qatar; meetings with Emir Sheikh Tamim bin Hamad Al Thani, PM and deputy PM; focus on AI, infrastructure, energy, defence and investment. (Qatar)[web:148][web:220]"
+  },
+  {
+    "id": 4,
+    "city": "Davos, Switzerland",
+    "coords": [46.8021, 9.8369],
+    "arrival": "2026-01-19",
+    "departure": "2026-01-21",
+    "desc": "Attends World Economic Forum Annual Meeting; delivers key speech and courts investment. (Switzerland)[web:116][web:244]"
+  },
+  {
+    "id": 5,
+    "city": "Ottawa, Canada",
+    "coords": [45.4215, -75.6972],
+    "arrival": "2026-01-21",
+    "departure": "2026-02-25",
+    "desc": "Back in Ottawa after China–Qatar–Davos world tour to brief cabinet and continue domestic work. (Canada)[web:194]"
+  },
+  {
+    "id": 6,
+    "city": "Mumbai, India",
+    "coords": [19.0760, 72.8777],
+    "arrival": "2026-02-26",
+    "departure": "2026-02-27",
+    "desc": "Begins Indo-Pacific tour; meetings with business leaders on trade, clean energy, AI and investment. (India)[web:193][web:196]"
+  },
+  {
+    "id": 7,
+    "city": "New Delhi, India",
+    "coords": [28.6139, 77.2090],
+    "arrival": "2026-02-27",
+    "departure": "2026-02-28",
+    "desc": "Meets Prime Minister Narendra Modi; discussions on CEPA, defence, clean energy, tech, talent mobility. (India)[web:193][web:215]"
+  },
+  {
+    "id": 8,
+    "city": "Sydney, Australia",
+    "coords": [-33.8688, 151.2093],
+    "arrival": "2026-03-01",
+    "departure": "2026-03-02",
+    "desc": "First stop in Australia; meetings focused on trade and critical minerals. (Australia)[web:193][web:219]"
+  },
+  {
+    "id": 9,
+    "city": "Canberra, Australia",
+    "coords": [-35.2809, 149.1300],
+    "arrival": "2026-03-02",
+    "departure": "2026-03-03",
+    "desc": "Meets PM Anthony Albanese; addresses Parliament; talks on defence, maritime security, critical minerals, advanced tech. (Australia)[web:193][web:219]"
+  },
+  {
+    "id": 10,
+    "city": "Tokyo, Japan",
+    "coords": [35.6762, 139.6503],
+    "arrival": "2026-03-04",
+    "departure": "2026-03-07",
+    "desc": "Meets Japanese PM; cooperation on clean energy, advanced manufacturing, critical minerals, food and regional security. (Japan)[web:193][web:217]"
+  },
+  {
+    "id": 11,
+    "city": "Ottawa, Canada",
+    "coords": [45.4215, -75.6972],
+    "arrival": "2026-03-07",
+    "departure": "2026-03-12",
+    "desc": "Returns to Canada after India–Australia–Japan Indo-Pacific tour. (Canada)[web:122][web:241]"
+  },
+  {
+    "id": 12,
+    "city": "Yellowknife, Canada",
+    "coords": [62.4539, -114.3718],
+    "arrival": "2026-03-13",
+    "departure": "2026-03-13",
+    "desc": "Stop in Yellowknife en route to Norway; focus on Arctic defence and northern communities. (Canada)[web:160][web:202]"
+  },
+  {
+    "id": 13,
+    "city": "Bardufoss, Norway",
+    "coords": [69.0558, 18.5406],
+    "arrival": "2026-03-14",
+    "departure": "2026-03-14",
+    "desc": "Observes NATO exercises with Norwegian and allied leaders; focus on Arctic readiness and defence. (Norway)[web:160][web:202]"
+  },
+  {
+    "id": 14,
+    "city": "Oslo, Norway",
+    "coords": [59.9139, 10.7522],
+    "arrival": "2026-03-14",
+    "departure": "2026-03-16",
+    "desc": "Meets Nordic leaders in Oslo to deepen trade, clean energy, innovation and Arctic co‑operation; bilateral with PM Jonas Gahr Støre. (Norway)[web:109][web:202]"
+  },
+  {
+    "id": 15,
+    "city": "London, United Kingdom",
+    "coords": [51.5074, -0.1278],
+    "arrival": "2026-03-16",
+    "departure": "2026-03-18",
+    "desc": "Meets UK PM Sir Keir Starmer at 10 Downing Street; discussion of Iran’s attacks, Ukraine, defence production and deepening Canada–UK economic and security partnership. (United Kingdom)[web:222][web:226][web:225][web:239]"
+  },
+  {
+    "id": 16,
+    "city": "Ottawa, Canada",
+    "coords": [45.4215, -75.6972],
+    "arrival": "2026-03-18",
+    "departure": "2026-03-31",
+    "desc": "Returns to Ottawa after Norway–UK trip; as of March 21, no further foreign trips have been formally scheduled with dates beyond the India–Australia–Japan and Norway–UK tours already completed. (Canada)[web:194][web:241]"
+  }
+]
