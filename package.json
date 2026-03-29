@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@turf/turf": "^7.3.4",
+    "better-sqlite3": "^12.8.0",
     "leaflet": "^1.9.4",
     "leaflet-arrowheads": "^1.4.0",
     "leaflet.pattern": "^0.1.0",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/better-sqlite3": "^7.6.13",
     "@types/leaflet": "^1.9.21",
     "@types/node": "^20",
     "@types/react": "^19",

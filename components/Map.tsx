@@ -391,8 +391,12 @@ export default function Map() {
   const [flyTarget,  setFlyTarget ] = useState<TravelPoint | null>(null);
 
   useEffect(() => {
-    fetch('/api/trips.json')
-      .then(r => r.json())
+    // 1. UPDATED ENDPOINT: Changed from '/api/trips.json' to '/api/trips'
+    fetch('/api/trips')
+      .then(r => {
+        if (!r.ok) throw new Error('Failed to fetch trips from database');
+        return r.json();
+      })
       .then((data: TravelPoint[]) => {
         setTravelData(data);
         const now = new Date();
@@ -408,7 +412,9 @@ export default function Map() {
           })
           .filter((s): s is FlightSegment => s !== null);
         setSegments(segs);
-      });
+      })
+      // 2. ADDED ERROR HANDLING: Just in case the SQLite DB is locked or booting
+      .catch(err => console.error("Error loading map data:", err));
   }, []);
 
   if (!travelData.length) {
